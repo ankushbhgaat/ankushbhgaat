@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header">
-  <img title="Welcome Note" src="https://github.com/user-attachments/assets/0eb59f60-3cfe-4a7d-84e2-8ed5d5db168c" /></a>
+  <img title="Welcome Note" src="/src/welcome-note.png" /></a>
 </div>
 
 <hr>
